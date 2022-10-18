@@ -28,4 +28,17 @@ docker version
 ```
 ![image](https://user-images.githubusercontent.com/80097898/196401331-31a2e17a-a4e5-4f9d-a001-dee39b18df82.png)
 
+```
+docker volume
+```
+![image](https://user-images.githubusercontent.com/80097898/196401997-2b866b2a-42de-4817-a81d-d9e4210fa226.png)
 
+```
+docker volume ls
+```
+![image](https://user-images.githubusercontent.com/80097898/196402531-177f527c-1886-4e3d-b214-7d6342967e22.png)
+
+```
+docker volume prune
+```
+![image](https://user-images.githubusercontent.com/80097898/196403107-6e09a9fd-326a-4f74-b8fa-664747ae959f.png)
