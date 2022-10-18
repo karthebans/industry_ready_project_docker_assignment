@@ -18,6 +18,11 @@ docker run
 ```
 ![image](https://user-images.githubusercontent.com/80097898/196399409-2349a4e8-0381-4e2c-8eba-bad6890f56e9.png)
 
+```
+docker status
+```
+![image](https://user-images.githubusercontent.com/80097898/196400740-724de5d1-c94b-4545-8023-c16a59e48e92.png)
+
 
 
 
