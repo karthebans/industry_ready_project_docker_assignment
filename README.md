@@ -23,6 +23,9 @@ docker status
 ```
 ![image](https://user-images.githubusercontent.com/80097898/196400740-724de5d1-c94b-4545-8023-c16a59e48e92.png)
 
-
+```
+docker version
+```
+![image](https://user-images.githubusercontent.com/80097898/196401331-31a2e17a-a4e5-4f9d-a001-dee39b18df82.png)
 
 
