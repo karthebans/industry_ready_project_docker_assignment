@@ -77,3 +77,18 @@ docker stop my_container
 docker search busybox
 ```
 ![image](https://user-images.githubusercontent.com/80097898/196422926-d4c8ad8a-863d-42a0-a5b4-8b113e18d4a2.png)
+
+```
+docker system df
+```
+![image](https://user-images.githubusercontent.com/80097898/196423503-1405415a-1f43-4b16-99d7-d7510c331972.png)
+
+```
+docker system info
+```
+![image](https://user-images.githubusercontent.com/80097898/196424098-550ffda6-b11f-4e25-888b-24aa3b12586d.png)
+
+```
+docker ps -a
+```
+![image](https://user-images.githubusercontent.com/80097898/196424512-24ea1ae2-3983-41c8-91f2-285d10f42672.png)
