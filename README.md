@@ -62,3 +62,18 @@ docker --debug info
 docker diff container_id
 ```
 ![image](https://user-images.githubusercontent.com/80097898/196418064-12618aa8-7da1-4126-b627-850e1489e8cf.png)
+
+```
+docker kill container_name
+```
+![image](https://user-images.githubusercontent.com/80097898/196419428-b77a778a-1a74-4e17-bad3-05da0ef658f7.png)
+
+```
+docker stop my_container
+```
+![image](https://user-images.githubusercontent.com/80097898/196420126-c10bde97-afc3-4076-bcc8-ff2196d6f8bb.png)
+
+```
+docker search busybox
+```
+![image](https://user-images.githubusercontent.com/80097898/196422926-d4c8ad8a-863d-42a0-a5b4-8b113e18d4a2.png)
