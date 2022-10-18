@@ -13,6 +13,11 @@ docker build
 ```
 ![image](https://user-images.githubusercontent.com/80097898/196394819-234ca216-99c3-41ee-b307-52eab2c406be.png)
 
+```
+docker run 
+```
+![image](https://user-images.githubusercontent.com/80097898/196399409-2349a4e8-0381-4e2c-8eba-bad6890f56e9.png)
+
 
 
 
