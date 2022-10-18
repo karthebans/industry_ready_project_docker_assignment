@@ -42,3 +42,23 @@ docker volume ls
 docker volume prune
 ```
 ![image](https://user-images.githubusercontent.com/80097898/196403107-6e09a9fd-326a-4f74-b8fa-664747ae959f.png)
+
+```
+docker images ps
+```
+![image](https://user-images.githubusercontent.com/80097898/196411412-d66551f1-cb59-4c76-bbc0-7932129c8040.png)
+
+```
+docker info
+```
+![image](https://user-images.githubusercontent.com/80097898/196416135-557ed1af-3a82-4091-a9c5-a93baa6889eb.png)
+
+```
+docker --debug info
+```
+![image](https://user-images.githubusercontent.com/80097898/196416950-52d27a60-4722-43aa-a35c-32bccc48b325.png)
+
+```
+docker diff container_id
+```
+![image](https://user-images.githubusercontent.com/80097898/196418064-12618aa8-7da1-4126-b627-850e1489e8cf.png)
